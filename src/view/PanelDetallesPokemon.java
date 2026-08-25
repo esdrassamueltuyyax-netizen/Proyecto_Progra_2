@@ -238,7 +238,6 @@ public class PanelDetallesPokemon extends JPanel {
 
     }
     // Cargamos las imagenes de pada pokemon por URL
-
     private Image cargarImagenUniversal(String ruta) {
         if (ruta == null || ruta.trim().isEmpty()) {
             return null;
