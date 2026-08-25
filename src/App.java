@@ -36,6 +36,7 @@ public class App {
                     "Agua , Roca, Tierra"));
 
             Ventana.cargarPokemon(listaPokemon);
+            Ventana.setVisible(true);
 
         });
 
