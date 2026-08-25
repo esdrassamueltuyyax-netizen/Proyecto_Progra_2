@@ -4,6 +4,7 @@ import model.Pokemon;
 
 public class Volador extends Pokemon {
 
+
     int ataqueEspecial;
     int defensaEspecial;
     String elemento;

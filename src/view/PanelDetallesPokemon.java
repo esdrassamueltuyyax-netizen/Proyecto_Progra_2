@@ -337,4 +337,4 @@ public class PanelDetallesPokemon extends JPanel {
         }
         return badge;
     }
-}
+ }
